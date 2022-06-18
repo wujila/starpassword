@@ -88,7 +88,7 @@
                     icon: 'info',
                     showCloseButton: true,
                     confirmButtonText: '保存',
-                    footer: '<div style="text-align: center;font-size: 1em;">Powerd by <a href="https://www.youxiaohou.com/tool/install-starpassword">油小猴</a></div>',
+                    footer: '<div style="text-align: center;font-size: 1em;">Powerd by <a href="">油小猴</a></div>',
                     customClass: {
                         container: 'starpassword-container',
                         popup: 'starpassword-popup'
